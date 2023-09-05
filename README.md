@@ -1,5 +1,5 @@
 👨‍🎓I am Deepak Mahankale, currently pursing my engineering journey from D.Y. Patil Institute of Engineering Management and Research Akurdi, Pune.
-<br>
+
 💻I am a Java Programmer.
 <br>
 🥇I am 3-star⭐️ coder at Codechef.
