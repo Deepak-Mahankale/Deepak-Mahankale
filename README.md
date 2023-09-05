@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Deepak-Mahankale/Deepak-Mahankale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓I am Deepak Mahankale, currently pursing my engineering journey from D.Y. Patil Institute of Engineering Management and Research Akurdi, Pune.
+<br>
+💻I am a Java Programmer.
+<br>
+🥇I am 3-star⭐️ coder at Codechef.
+<br>
+🥇I am 5-star⭐️ coder at HackerRank.
+<br>
+🏆I am Institute Rank 6th at GeeksForGeeks.
+<br>
+🏆I am Institute Rank 1th at Coding Ninja.
