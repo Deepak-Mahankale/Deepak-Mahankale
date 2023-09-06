@@ -8,4 +8,4 @@
 <br>
 -🏆->I am Institute Rank 6th at GeeksForGeeks.
 <br>
--🏆->I am Institute Rank 1th at Coding Ninja.
+-🏆->I am Institute Rank 1st at Coding Ninja.
