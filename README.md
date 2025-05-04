@@ -1,11 +1,12 @@
---> #I am Deepak Mahankale, currently pursing my engineering journey from D.Y. Patil Institute of Engineering Management and Research Akurdi, Pune.
+--> #I am Deepak Mahankale, currently pursing my M.Tech from Sanjivani College of Engineering, Kopargaon.
 <br>
--💻->I am a Java Programmer.
+-💻->Full Stack Java Developer.
 <br>
--🥇->I am 3-star⭐️ coder at Codechef.
+-💻->Full Stack Web Developer.
 <br>
--🥇->I am 5-star⭐️ coder at HackerRank.
+-💻-> MYSQL | PostgreSQL.
 <br>
--🏆->I am Institute Rank 6th at GeeksForGeeks.
+-🥇-> 5-star⭐️ coder at HackerRank.
 <br>
--🏆->I am Institute Rank 1st at Coding Ninja.
+-🥇-> 3-star⭐️ coder at Codechef. 
+<br>
